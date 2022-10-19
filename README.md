@@ -12,7 +12,7 @@ Artstation: https://www.artstation.com/dxni_fr
 
 ## Here are some of the softwares that I'm learning
 [![Photoshop](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png)]()
-<br>
+<br> width=48>
 [![ZBrush](https://p.kindpng.com/picc/s/255-2553053_zbrush-logo-vector-zbrush-icon-hd-png-download.png)]()
 <br>
 [![Maya](https://www.software.unam.mx/wp-content/uploads/2019/03/452007_preview.png)]()
