@@ -1,7 +1,14 @@
 # Hi, my name is Dani👋
 ### And Im a 3D and videogames student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
+
+
+[![Artstation](https://cdn-icons-png.flaticon.com/512/5968/5968655.png)]()<br>
+
+
+
 Artstation: https://www.artstation.com/dxni_fr
+
 
 ## Here are some of the softwares that I'm learning
 [![Photoshop](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png)]()
