@@ -12,9 +12,10 @@ Artstation: https://www.artstation.com/dxni_fr
 <br>
 
 ## And here there are some of the games that I usually play to in my spare time:
-https://i.blogs.es/bf5ad0/league-of-legends-destacada/450_1000.webp
-https://cdn2.unrealengine.com/genshin-impact-version-2-8-3840x2160-357d3d64d056.png
-https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_Overwatch2WatchpointPack_image1600w.jpg
+<img src = "https://i.blogs.es/bf5ad0/league-of-legends-destacada/450_1000.webp">
+<img src = "https://cdn2.unrealengine.com/genshin-impact-version-2-8-3840x2160-357d3d64d056.png">
+<img src = "https://static.wikia.nocookie.net/doblaje/images/e/e0/Overwatch2.jpg/revision/latest?cb=20191101234311&path-prefix=es">
+
 
 ## Thank you for your attention :))
-https://pbs.twimg.com/profile_images/654819893083140096/jRY7vBuJ_400x400.png
+<img src = "https://pbs.twimg.com/profile_images/654819893083140096/jRY7vBuJ_400x400.png">
