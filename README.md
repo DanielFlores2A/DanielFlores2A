@@ -5,7 +5,8 @@
 
 [![Artstation](https://cdn-icons-png.flaticon.com/512/5968/5968655.png)]()<br>
 
-
+### I love modeling in Zbrush, especially characters or monsters from various films (●'◡'●) I'm also very passionate about anime and videogames.
+### Some of my skills are: I know how to work in group,
 
 Artstation: https://www.artstation.com/dxni_fr
 
