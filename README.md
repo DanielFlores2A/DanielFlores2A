@@ -5,7 +5,9 @@
 ### I love modeling in Zbrush, especially characters or monsters from various films (●'◡'●) I'm also very passionate about anime and videogames.
 ### Some of my skills are: I know how to work in group, punctual and very consistent with my work.
 
-<img src = "https://cdn-icons-png.flaticon.com/512/5968/5968655.png" width = "100"> https://www.artstation.com/dxni_fr
+
+<a href="https://www.artstation.com/dxni_fr"><img src = "https://cdn-icons-png.flaticon.com/512/5968/5968655.png" width = "50"> Mi Artstation</a> 
+
 
 
 ## Here are some of the softwares that I'm learning
