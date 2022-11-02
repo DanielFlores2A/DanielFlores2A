@@ -19,5 +19,5 @@
 <img src = "https://static.wikia.nocookie.net/doblaje/images/e/e0/Overwatch2.jpg/revision/latest?cb=20191101234311&path-prefix=es">
 
 
-## Thank you for your attention :))
-<img src = "https://pbs.twimg.com/profile_images/654819893083140096/jRY7vBuJ_400x400.png">
+## Thank you for your attention :)
+
