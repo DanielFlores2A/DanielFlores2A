@@ -15,7 +15,7 @@
 
 ## And here there are some of the games that I usually play to in my spare time:
 <img src = "https://cdn2.unrealengine.com/genshin-impact-version-2-8-3840x2160-357d3d64d056.png">
-<img src = "https://i.blogs.es/bf5ad0/league-of-legends-destacada/450_1000.webp" width = "1000">
+<img src = "https://www.leagueoflegends.com/static/open-graph-2e582ae9fae8b0b396ca46ff21fd47a8.jpg" width = "1000">
 <img src = "https://static.wikia.nocookie.net/doblaje/images/e/e0/Overwatch2.jpg/revision/latest?cb=20191101234311&path-prefix=es">
 
 
